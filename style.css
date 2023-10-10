@@ -1,0 +1,26 @@
+*{
+    background-color: blueviolet;
+}
+div{
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+    border: 10px solid goldenrod;
+}
+#title{
+    color: aliceblue;
+    font-family: libre Baskerville, serif;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: inherit;
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+    background-color: inherit;
+    font-size: 23px;
+    text-transform: capitalize;
+}
+img{
+    width: 100%;
+}
